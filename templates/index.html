@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Itinerary Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 50%;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        input, select {
+            padding: 10px;
+            font-size: 14px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+        }
+
+        button {
+            padding: 10px;
+            font-size: 16px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .result {
+            margin-top: 20px;
+        }
+
+        pre {
+            background-color: #f1f1f1;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Generate Your Itinerary</h1>
+        <form method="POST">
+            <label for="query">Enter your query:</label>
+            <input type="text" id="query" name="query" required placeholder="e.g., Give me an itinerary for 2 days in Mumbai">
+
+            <label for="budget">Budget:</label>
+            <select id="budget" name="budget">
+                <option value="">Select Budget</option>
+                <option value="high">High</option>
+                <option value="low">Low</option>
+            </select>
+
+            <label for="trip_type">Trip Type:</label>
+            <select id="trip_type" name="trip_type">
+                <option value="">Select Trip Type</option>
+                <option value="adventurous">Adventurous</option>
+                <option value="relaxing">Relaxing</option>
+                <option value="cultural">Cultural</option>
+                <option value="luxury">Luxury</option>
+            </select>
+
+            <button type="submit">Generate Itinerary</button>
+        </form>
+
+        {% if answer %}
+        <div class="result">
+            <h2>Your Itinerary</h2>
+            <pre>{{ answer }}</pre>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

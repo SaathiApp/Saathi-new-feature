@@ -1,0 +1,13 @@
+{
+    "name": "Conch Building",
+    "latitude": "Unknown",
+    "longitude": "Unknown",
+    "id": 95598634,
+    "tags": {
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Conch Building",
+        "source": "Bing",
+        "tourism": "hotel"
+    }
+}

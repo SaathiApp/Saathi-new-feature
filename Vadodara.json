@@ -1,0 +1,149 @@
+{
+    "itinerary": {
+        "destination": "Mumbai",
+        "hotel": {
+            "name": "The Taj Mahal Palace",
+            "address": "Apollo Bunder, Colaba, Mumbai, Maharashtra 400001",
+            "coordinates": {
+                "latitude": "18.9220",
+                "longitude": "72.8347"
+            },
+            "check_in": "14:00",
+            "check_out": "12:00",
+            "preferences": "Luxury, Adventurous"
+        },
+        "days": [
+            {
+                "day": 1,
+                "schedule": [
+                    {
+                        "time": "09:00",
+                        "activity": "Visit the Gateway of India",
+                        "description": "Iconic arch monument, great photo opportunities.",
+                        "location": "Gateway of India",
+                        "coordinates": {
+                            "latitude": "18.9220",
+                            "longitude": "72.8347"
+                        },
+                        "type": "Sightseeing"
+                    },
+                    {
+                        "time": "11:00",
+                        "activity": "Explore the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (Museum)",
+                        "description": "Discover Mumbai's rich history and art.",
+                        "location": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+                        "coordinates": {
+                            "latitude": "18.9426",
+                            "longitude": "72.8345"
+                        },
+                        "type": "Sightseeing"
+                    },
+                    {
+                        "time": "13:00",
+                        "activity": "Lunch at a local restaurant in Colaba Causeway",
+                        "description": "Experience authentic Mumbai street food.",
+                        "location": "Colaba Causeway",
+                        "coordinates": {
+                            "latitude": "18.9260",
+                            "longitude": "72.8316"
+                        },
+                        "type": "Eating"
+                    },
+                    {
+                        "time": "15:00",
+                        "activity": "Explore the Dhobi Ghat",
+                        "description": "An open-air laundry, a unique sight.",
+                        "location": "Dhobi Ghat",
+                        "coordinates": {
+                            "latitude": "18.9388",
+                            "longitude": "72.8271"
+                        },
+                        "type": "Sightseeing"
+                    },
+                    {
+                        "time": "17:00",
+                        "activity": "Relax at Marine Drive",
+                        "description": "Enjoy the sea breeze and views.",
+                        "location": "Marine Drive",
+                        "coordinates": {
+                            "latitude": "18.9317",
+                            "longitude": "72.8326"
+                        },
+                        "type": "Exploration"
+                    },
+                    {
+                        "time": "19:00",
+                        "activity": "Dinner at a restaurant in Bandra",
+                        "description": "Explore Bandra's vibrant nightlife.",
+                        "location": "Bandra",
+                        "coordinates": {
+                            "latitude": "19.0760",
+                            "longitude": "72.8251"
+                        },
+                        "type": "Eating"
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "schedule": [
+                    {
+                        "time": "09:00",
+                        "activity": "Visit the Kanheri Caves",
+                        "description": "Explore ancient Buddhist cave temples.",
+                        "location": "Sanjay Gandhi National Park",
+                        "coordinates": {
+                            "latitude": "19.2000",
+                            "longitude": "72.9000"
+                        },
+                        "type": "Sightseeing"
+                    },
+                    {
+                        "time": "12:00",
+                        "activity": "Lunch at a restaurant near the caves",
+                        "description": "Enjoy nature and fresh air.",
+                        "location": "Sanjay Gandhi National Park",
+                        "coordinates": {
+                            "latitude": "19.2000",
+                            "longitude": "72.9000"
+                        },
+                        "type": "Eating"
+                    },
+                    {
+                        "time": "14:00",
+                        "activity": "Shopping at Linking Road",
+                        "description": "Find unique souvenirs and clothing.",
+                        "location": "Linking Road",
+                        "coordinates": {
+                            "latitude": "19.0623",
+                            "longitude": "72.8363"
+                        },
+                        "type": "Shopping"
+                    },
+                    {
+                        "time": "17:00",
+                        "activity": "Relax and enjoy the sunset at Juhu Beach",
+                        "description": "Enjoy the beautiful sunset and street food.",
+                        "location": "Juhu Beach",
+                        "coordinates": {
+                            "latitude": "19.0956",
+                            "longitude": "72.8363"
+                        },
+                        "type": "Exploration"
+                    },
+                    {
+                        "time": "19:00",
+                        "activity": "Farewell Dinner at a restaurant in Juhu",
+                        "description": "Enjoy delicious food and the sunset",
+                        "location": "Juhu",
+                        "coordinates": {
+                            "latitude": "19.1000",
+                            "longitude": "72.8300"
+                        },
+                        "type": "Eating"
+                    }
+                ]
+            }
+        ]
+    }
+}

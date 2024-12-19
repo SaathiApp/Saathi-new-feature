@@ -1,0 +1,2464 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2024-12-15T03:51:59Z",
+    "timestamp_areas_base": "2024-12-15T03:51:59Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 567267944,
+      "lat": 27.166379,
+      "lon": 78.0373174,
+      "tags": {
+        "name": "Maya",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 608440527,
+      "lat": 27.1615917,
+      "lon": 78.0407622,
+      "tags": {
+        "addr:city": "Agra",
+        "addr:country": "IN",
+        "addr:postcode": "282001",
+        "addr:street": "Fatehabad Road",
+        "name": "The Gateway Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 655308753,
+      "lat": 27.1974545,
+      "lon": 78.0026026,
+      "tags": {
+        "name": "Marina",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 691687059,
+      "lat": 27.1628283,
+      "lon": 78.0368457,
+      "tags": {
+        "name": "Howard Park Plaza",
+        "tourism": "hotel",
+        "website": "https://www.parkplaza.com/agrain"
+      }
+    },
+    {
+      "type": "node",
+      "id": 746665592,
+      "lat": 27.167935,
+      "lon": 78.0489443,
+      "tags": {
+        "name": "The Oberoi Amarvilas",
+        "stars": "5",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 746672698,
+      "lat": 27.1610537,
+      "lon": 78.0439887,
+      "tags": {
+        "name": "ITC Mughal",
+        "stars": "5",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 943964349,
+      "lat": 26.8723126,
+      "lon": 78.5645799,
+      "tags": {
+        "addr:city": "District Agra",
+        "addr:street": "Mela Kothi' Chambal Safari Lodge, Village and P.O. Jarar, Bah",
+        "name": "Chambal Safari Lodge",
+        "phone": "+91 99970 66002",
+        "tourism": "hotel",
+        "website": "https://www.chambalsafari.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 960599747,
+      "lat": 27.161931,
+      "lon": 78.0366311,
+      "tags": {
+        "name": "Hotel the Oasis",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1003857373,
+      "lat": 27.1681349,
+      "lon": 78.00856,
+      "tags": {
+        "addr:city": "Agra",
+        "name": "Laurie's Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1468369508,
+      "lat": 27.1991292,
+      "lon": 78.0049243,
+      "tags": {
+        "name": "Youth Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1710401331,
+      "lat": 27.1568439,
+      "lon": 78.0638321,
+      "tags": {
+        "designation": "5 Star Deluxe",
+        "name": "Wyndham Grand Agra",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2190737079,
+      "lat": 27.1233749,
+      "lon": 78.0042838,
+      "tags": {
+        "name": "Hotel Om Sai Palace 09720201112",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2505539934,
+      "lat": 27.1661393,
+      "lon": 78.0364429,
+      "tags": {
+        "name": "Ray of Maya",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2653408995,
+      "lat": 27.1584871,
+      "lon": 78.0248611,
+      "tags": {
+        "addr:city": "Agra",
+        "name": "Clarks Shiraz",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2654011318,
+      "lat": 27.0943033,
+      "lon": 77.6660905,
+      "tags": {
+        "name": "Mangalam Palace",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2654011931,
+      "lat": 27.1691149,
+      "lon": 78.0433777,
+      "tags": {
+        "name": "Saniya Palace",
+        "survey:date": "2023-01-27",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3078050430,
+      "lat": 27.1875736,
+      "lon": 78.0009025,
+      "tags": {
+        "name": "sapru hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3079634679,
+      "lat": 27.1812902,
+      "lon": 77.9972672,
+      "tags": {
+        "name": "mathur vaishay hostel (boys hostel)",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3079683133,
+      "lat": 27.1740869,
+      "lon": 78.0092453,
+      "tags": {
+        "name": "splender hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3102616859,
+      "lat": 27.2101291,
+      "lon": 78.0041491,
+      "tags": {
+        "name": "JP hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3102629303,
+      "lat": 27.2103421,
+      "lon": 78.0072791,
+      "tags": {
+        "name": "the kamta hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3103736029,
+      "lat": 27.1884901,
+      "lon": 78.0010227,
+      "tags": {
+        "name": "lic office;thomson hostel",
+        "office": "yes",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3104171133,
+      "lat": 27.1793172,
+      "lon": 78.0054876,
+      "tags": {
+        "name": "moti palace hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3104171136,
+      "lat": 27.1798565,
+      "lon": 78.0045112,
+      "tags": {
+        "name": "Taj way hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3104178213,
+      "lat": 27.1749197,
+      "lon": 78.0084326,
+      "tags": {
+        "name": "Sai president hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3104185675,
+      "lat": 27.1721075,
+      "lon": 78.0090452,
+      "tags": {
+        "addr:city": "Agra",
+        "name": "Pentas hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3104199535,
+      "lat": 27.1689863,
+      "lon": 78.0072884,
+      "tags": {
+        "addr:city": "Agra",
+        "name": "Sanjay hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3113274503,
+      "lat": 27.1675087,
+      "lon": 78.051029,
+      "tags": {
+        "name": "Hotel Sheela Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3113274697,
+      "lat": 27.1683242,
+      "lon": 78.0510533,
+      "tags": {
+        "name": "Hotel Taj Resorts",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3113275081,
+      "lat": 27.1682765,
+      "lon": 78.0511311,
+      "tags": {
+        "name": "Hotel tara Grand",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3113307255,
+      "lat": 27.1712851,
+      "lon": 78.0462163,
+      "tags": {
+        "name": "Hotel Taj Kema",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3113320150,
+      "lat": 27.1684804,
+      "lon": 78.0507154,
+      "tags": {
+        "name": "Hotel Atulyaa Taj",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3113408188,
+      "lat": 27.1681266,
+      "lon": 78.0506456,
+      "tags": {
+        "name": "Hoel Rashmi",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3253795459,
+      "lat": 27.1599101,
+      "lon": 78.053023,
+      "tags": {
+        "name": "Pyrenees Home Stay",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3271165493,
+      "lat": 27.1678826,
+      "lon": 78.0146375,
+      "tags": {
+        "addr:city": "Agra",
+        "name": "REST HOUSE",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3512397623,
+      "lat": 27.1684817,
+      "lon": 78.0502138,
+      "tags": {
+        "addr:city": "Agra",
+        "addr:postcode": "282001",
+        "addr:street": "Taj East Gate Road, Shilpgram VIP Raod",
+        "addr:street_1": "Near Hotel The Oberoi Amar Vilas",
+        "name": "Hotel Taj Plaza",
+        "operator": "Siddharth Nandan",
+        "phone": "915622231010, 3294100",
+        "smoking": "isolated",
+        "tourism": "hotel",
+        "website": "https://www.hoteltajplazaagra.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3676200488,
+      "lat": 27.1528004,
+      "lon": 78.0620577,
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:street": "Fatehabad Road",
+        "email": "info@hotellighthouseagra.com",
+        "name": "The Light House",
+        "opening_hours": "24/7",
+        "phone": "+918191846846",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3755358876,
+      "lat": 27.1609539,
+      "lon": 78.0335616,
+      "tags": {
+        "name": "Amar Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762150142,
+      "lat": 27.1619624,
+      "lon": 78.0390367,
+      "tags": {
+        "name": "Taj inn hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3762162948,
+      "lat": 27.1795589,
+      "lon": 78.0058215,
+      "tags": {
+        "name": "Hotel fvimal Dhara",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3769956817,
+      "lat": 27.1943372,
+      "lon": 78.0106275,
+      "tags": {
+        "name": "King Park Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3770157656,
+      "lat": 27.2313779,
+      "lon": 78.0036136,
+      "tags": {
+        "name": "dayalbasi girls hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3785765185,
+      "lat": 27.1621798,
+      "lon": 78.0364533,
+      "tags": {
+        "name": "Hotel Ashish Palace",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3785780184,
+      "lat": 27.1613146,
+      "lon": 78.0349937,
+      "tags": {
+        "name": "Amar Palace Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3852607923,
+      "lat": 27.1677322,
+      "lon": 78.0506849,
+      "tags": {
+        "addr:city": "Agra",
+        "addr:housenumber": "rajeev nagar",
+        "addr:postcode": "282001",
+        "addr:street": "Taj East Gate Road",
+        "name": "big brother hostel agra",
+        "note": "big brother hostel is 30 meter inside the narrow street",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3882946968,
+      "lat": 27.1602348,
+      "lon": 78.0444991,
+      "tags": {
+        "addr:city": "Agra",
+        "name": "mughal hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3893486742,
+      "lat": 27.1667123,
+      "lon": 78.0513137,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:postcode": "282001",
+        "addr:street": "Amar Lok Colony",
+        "alt_name": "The Coral Tree Boutique Homestay",
+        "beds": "12",
+        "guest_house": "bed_and_breakfast",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "The Coral Tree Boutique Homestay",
+        "phone": "+91 98376 09088",
+        "rooms": "6",
+        "tourism": "guest_house",
+        "website": "https://www.thecoraltreehomestay.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3994649680,
+      "lat": 27.1634384,
+      "lon": 78.0534034,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Backpacker Panda Friends",
+        "operator": "Backpacker Panda",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4072890068,
+      "lat": 27.1712717,
+      "lon": 78.0447017,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Sheela",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4120114289,
+      "lat": 27.1643508,
+      "lon": 78.0558587,
+      "tags": {
+        "email": "agra@zostel.com",
+        "internet_access": "wlan",
+        "name": "Zostel Agra",
+        "phone": "+91 94 14 289737",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4209896875,
+      "lat": 27.1694194,
+      "lon": 78.040645,
+      "tags": {
+        "check_date": "2024-01-23",
+        "email": "siddhartharora2009@gmail.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Hotel Sidhartha",
+        "opening_hours": "24/7",
+        "phone": "+91 562 223 0901",
+        "tourism": "hotel",
+        "website": "https://www.hotelsidharthaagra.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4297663090,
+      "lat": 27.1665216,
+      "lon": 78.0375916,
+      "tags": {
+        "email": "booking@hoteldaawatplaceagra.com",
+        "internet_access": "wlan",
+        "name": "Daawat",
+        "phone": "05624062103",
+        "tourism": "hotel",
+        "website": "www.hoteldaawatplaceagra.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4326965493,
+      "lat": 27.1646686,
+      "lon": 78.054145,
+      "tags": {
+        "name": "Treebo White Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4351058124,
+      "lat": 27.1574931,
+      "lon": 78.0513315,
+      "tags": {
+        "name": "Crystal Sarovar Premiere Agra",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4353682389,
+      "lat": 27.1683643,
+      "lon": 78.050536,
+      "tags": {
+        "name": "Rashmi Agra hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4395275116,
+      "lat": 27.1637831,
+      "lon": 78.0535362,
+      "tags": {
+        "addr:city": "AGRA",
+        "addr:housenumber": "min MIG 36",
+        "addr:postcode": "282001",
+        "addr:street": "Shilpgram Road",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Namastey Hostel",
+        "operator": "namastey",
+        "rooms": "15",
+        "smoking": "yes",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4443353492,
+      "lat": 27.168818,
+      "lon": 78.0402239,
+      "tags": {
+        "name:en": "Hotel Shyam Palace",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4481000992,
+      "lat": 27.1691467,
+      "lon": 78.0424911,
+      "tags": {
+        "name:en": "Hotel Kamal",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4481035890,
+      "lat": 27.168997,
+      "lon": 78.0429333,
+      "tags": {
+        "name:en": "shanti lodge",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4497814289,
+      "lat": 27.1577181,
+      "lon": 78.0481516,
+      "tags": {
+        "name:en": "Hotel Taj Sapphire",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4539334690,
+      "lat": 27.1686711,
+      "lon": 78.0431531,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Sai palace",
+        "name:en": "Sai palace",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4646803590,
+      "lat": 27.168211,
+      "lon": 78.0509611,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4662644990,
+      "lat": 27.1711181,
+      "lon": 78.0184537,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Akbar Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4836412580,
+      "lat": 27.1515883,
+      "lon": 78.0508426,
+      "tags": {
+        "addr:city": "Agra",
+        "addr:housenumber": "B/H - 1&2",
+        "addr:postcode": "282001",
+        "addr:street": "Taj Nagri Phase II",
+        "brand": "DoubleTree",
+        "brand:wikidata": "Q2504643",
+        "brand:wikipedia": "en: DoubleTree",
+        "contact:facebook": "https://www.facebook.com/DoubleTreebyHiltonAgra",
+        "contact:instagram": "https://www.instagram.com/doubletreebyhiltonagra/",
+        "email": "doubletreeagra_info@hilton.com",
+        "fax": "+91-562-7105001",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "DoubleTree by Hilton Hotel Agra",
+        "official_name": "DoubleTree by Hilton",
+        "operator": "Hilton",
+        "phone": "+91-562-7102323",
+        "rooms": "104",
+        "smoking": "yes",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.hilton.com/en/hotels/agrdtdi-doubletree-agra/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4940917021,
+      "lat": 27.163803,
+      "lon": 78.0536511,
+      "tags": {
+        "name:en": "Moustache Hostel Correct Location",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5076512655,
+      "lat": 27.1612015,
+      "lon": 78.0380478,
+      "tags": {
+        "addr:street": "Fatehabad Road",
+        "name": "Hotel Seven Hills Tower",
+        "phone": "+9105622237700",
+        "tourism": "hotel",
+        "website": "http://www.hotelsevenhillstower.in"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5129903022,
+      "lat": 27.1661994,
+      "lon": 77.9992134,
+      "tags": {
+        "name:en": "hotel sakura",
+        "name:ja": "hotel sakura",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5151574821,
+      "lat": 27.1695257,
+      "lon": 78.0409048,
+      "tags": {
+        "name": "Hôtel Sia Palace",
+        "phone": "+919917603367",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5167528221,
+      "lat": 27.1601538,
+      "lon": 78.0525328,
+      "tags": {
+        "addr:city": "Agra",
+        "addr:housenumber": "29/2",
+        "addr:postcode": "282004",
+        "addr:street": "R K Puram Near Taj Nagri",
+        "name": "Thomas home Stay",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5218661137,
+      "lat": 27.1636378,
+      "lon": 78.053897,
+      "tags": {
+        "addr:city": "AGRA",
+        "addr:district": "Agra",
+        "addr:housenumber": "P-18, MIG Colony",
+        "addr:postcode": "282001",
+        "addr:street": "Shilpgram Road, Taj Nagri Phase 1",
+        "email": "stay@amanhomestay.com",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Aman Homestay",
+        "name": "Aman Homestay, A Boutique Hotel",
+        "operator": "Aman Homestay",
+        "phone": "+919536440915",
+        "smoking": "outside",
+        "tourism": "hotel",
+        "website": "https://amanhomestay.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5224830122,
+      "lat": 27.169003,
+      "lon": 78.0417649,
+      "tags": {
+        "internet_access": "wlan",
+        "name:en": "Hotel Shahjahan",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5433165721,
+      "lat": 27.1689759,
+      "lon": 78.0407721,
+      "tags": {
+        "name:en": "Lucky Guest House",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5441013521,
+      "lat": 27.1638528,
+      "lon": 78.0535333,
+      "tags": {
+        "addr:street": "Shilpgram Road",
+        "internet_access": "wlan",
+        "name": "Namastey Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5464505021,
+      "lat": 27.171544,
+      "lon": 78.0163356,
+      "tags": {
+        "internet_access": "wlan",
+        "name:en": "Hotel Royale",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5750418121,
+      "lat": 27.1668235,
+      "lon": 78.0067997,
+      "tags": {
+        "name": "HOTEL SURYA",
+        "name:en": "Hotel Surya",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5750418721,
+      "lat": 27.1749424,
+      "lon": 78.0011693,
+      "tags": {
+        "name:en": "Hotel Marc Royal OYO 15493",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5977688485,
+      "lat": 27.1644959,
+      "lon": 78.0544288,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Spiritual Yoga Hostel",
+        "opening_hours": "24/7",
+        "phone": "+919993599000",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6083096486,
+      "lat": 27.1633872,
+      "lon": 78.0538102,
+      "tags": {
+        "addr:housenumber": "MIG 12",
+        "addr:postcode": "282001",
+        "addr:street": "Taj East Gate Road",
+        "email": "rhinestay@outlook.com",
+        "internet_access": "wlan",
+        "name": "राइन",
+        "name:en": "Rhine Guest House Correct Location",
+        "name:es": "casa de huéspedes del Rin",
+        "name:ja_rm": "ラインゲストハウス",
+        "opening_hours": "24/7",
+        "operator": "Ryan",
+        "phone": "+919997379977",
+        "tourism": "guest_house",
+        "website": "http://www.rhinestay.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6094909120,
+      "lat": 27.1639332,
+      "lon": 78.0608891,
+      "tags": {
+        "name:en": "Zigzag",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6163512386,
+      "lat": 27.1691191,
+      "lon": 78.0432423,
+      "tags": {
+        "air_conditioning": "yes",
+        "check_date": "2023-04-27",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Joey’s Hostel Agra",
+        "name:de": "Joey’s Hostel Agra",
+        "name:es": "Joey’s Hostel Agra",
+        "name:fr": "Joey’s Hostel Agra",
+        "name:it": "Joey’s Hostel Agra",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "reservation": "yes",
+        "smoking": "outside",
+        "tourism": "hostel",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6172854541,
+      "lat": 27.1575121,
+      "lon": 78.0479832,
+      "tags": {
+        "name": "HOTEL AREEBA",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6180290488,
+      "lat": 27.1524497,
+      "lon": 78.0360422,
+      "tags": {
+        "addr:housenumber": "32/75-A-11-B,",
+        "addr:postcode": "282001",
+        "addr:street": "Gandhi Park",
+        "email": "zigzaghostelagra@gmail.com",
+        "internet_access": "wlan",
+        "name": "ZIGZAG HOSTEL AGRA",
+        "name:en": "ZigZag Hostel Agra",
+        "phone": "9368112527",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6183605841,
+      "lat": 27.1644655,
+      "lon": 78.0545248,
+      "tags": {
+        "addr:city": "AGRA",
+        "addr:housenumber": "37hig",
+        "addr:postcode": "282001",
+        "addr:street": "Taj East Gate Road",
+        "addr:street_1": "near taj mahal east gate parkingparking",
+        "brand": "YOGA",
+        "internet_access": "wifi",
+        "name": "yoga guest house hostel",
+        "name:en": "Yoga Guest House Hostel",
+        "rooms": "10",
+        "smoking": "separated",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6251702485,
+      "lat": 27.1675188,
+      "lon": 78.0583174,
+      "tags": {
+        "addr:street": "Dhandhupura Road",
+        "internet_access": "wlan",
+        "name": "Taj Village",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6265844988,
+      "lat": 27.1498063,
+      "lon": 78.0634881,
+      "tags": {
+        "name:en": "Hotel Orchid",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6339599785,
+      "lat": 27.168288,
+      "lon": 78.0602881,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6346445485,
+      "lat": 27.1464391,
+      "lon": 78.0525582,
+      "tags": {
+        "name:fr": "Khas mahal homestay",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6411800780,
+      "lat": 27.1661464,
+      "lon": 78.051129,
+      "tags": {
+        "addr:city": "Agra",
+        "addr:housenumber": "5",
+        "addr:postcode": "282001",
+        "addr:street": "Amar Lok Colony",
+        "email": "info@coralcourthomestay.com",
+        "guest_house": "guest_house",
+        "name": "The Coral House Homestay by the Taj",
+        "phone": "+91 7505340604",
+        "tourism": "guest_house",
+        "website": "https://coralcourthomestay.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6802375585,
+      "lat": 27.1642426,
+      "lon": 78.0537652,
+      "tags": {
+        "addr:housenumber": "mmig 49",
+        "addr:postcode": "282001",
+        "addr:street": "Shilpgram Road",
+        "email": "omhostelagra@gmail.com",
+        "name:en": "OM Homestay Hostel",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "+91 72539 23083",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6867242485,
+      "lat": 27.1673257,
+      "lon": 78.0498279,
+      "tags": {
+        "addr:housenumber": "21/524-525/P-25",
+        "addr:postcode": "282001",
+        "addr:street": "Amar Lok Colony",
+        "email": "Missionhostel82@gmail.com",
+        "internet_access": "wlan",
+        "name:en": "Mission Backpack Hostel",
+        "opening_hours": "24/7",
+        "operator": "Deepak",
+        "phone": "8279746193",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6867341585,
+      "lat": 27.1679979,
+      "lon": 78.0490141,
+      "tags": {
+        "addr:postcode": "282001",
+        "addr:street": "Taj East Gate Road",
+        "email": "reservations@oberoigroup.com",
+        "internet_access": "wlan",
+        "name:en": "The Oberoi Amarvilas Agra",
+        "opening_hours": "24/7",
+        "operator": "Oberoi Group",
+        "phone": "+91 562 2231515",
+        "tourism": "hotel",
+        "website": "https://www.oberoihotels.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6898243585,
+      "lat": 27.1641657,
+      "lon": 78.0537606,
+      "tags": {
+        "addr:street": "Taj East Gate Road",
+        "internet_access": "wlan",
+        "name": "OM Hostel",
+        "opening_hours": "24/7",
+        "phone": "+91 72539 23083",
+        "tourism": "hostel",
+        "website": "https://om-hostel-student-dormitory.business.site/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6931546185,
+      "lat": 27.1642277,
+      "lon": 78.0537096,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Om",
+        "name:en": "OM Hostel",
+        "tourism": "hostel",
+        "website": "https://www.booking.com/Share-0nGpfe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7034945491,
+      "lat": 27.1618732,
+      "lon": 78.0579291,
+      "tags": {
+        "name": "Crystal Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7034945493,
+      "lat": 27.1576047,
+      "lon": 78.0469384,
+      "tags": {
+        "name": "Anant Plaza",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7044462985,
+      "lat": 27.1638716,
+      "lon": 78.053596,
+      "tags": {
+        "name": "Good Vibes Guesthouse",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7095684885,
+      "lat": 27.1581604,
+      "lon": 78.0577298,
+      "tags": {
+        "name:en": "utkash vilas",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7097359927,
+      "lat": 27.1585877,
+      "lon": 78.0540075,
+      "tags": {
+        "name": "Radisson Agra",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7222914142,
+      "lat": 27.160306,
+      "lon": 78.0352371,
+      "tags": {
+        "name": "Bansi Homestay",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7328992584,
+      "lat": 27.160808,
+      "lon": 78.0345771,
+      "tags": {
+        "name": "Hotel Attiti",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9869974473,
+      "lat": 27.1619965,
+      "lon": 78.0535816,
+      "tags": {
+        "addr:city": "AGRA",
+        "addr:housenumber": "37-38",
+        "addr:postcode": "282001",
+        "addr:street": "Shilpgram Road, R K Puram Taj Nagri Phase -1",
+        "guest_house": "hotel",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Agra Hotel Marygold",
+        "operator": "Marygold",
+        "phone": "+918700186682",
+        "rooms": "20",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10118129917,
+      "lat": 27.1569097,
+      "lon": 78.0498483,
+      "tags": {
+        "name:en": "Surasena Regal Vista",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10135581400,
+      "lat": 27.2149719,
+      "lon": 78.0066246,
+      "tags": {
+        "air_conditioning": "yes",
+        "internet_access": "wlan",
+        "name": "Vijay Vilas Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10763748971,
+      "lat": 27.1575547,
+      "lon": 78.0350877,
+      "tags": {
+        "name": "N.homestay",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10855741436,
+      "lat": 27.2371696,
+      "lon": 77.8441665,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2023-04-29",
+        "cuisine": "indian",
+        "name": "Mata Vaishnvi",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10855741440,
+      "lat": 27.2401111,
+      "lon": 77.8332582,
+      "tags": {
+        "check_date": "2023-04-29",
+        "name": "Hotel Moro",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10915664500,
+      "lat": 27.0942122,
+      "lon": 77.6666717,
+      "tags": {
+        "name": "Goverdhan",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11694522599,
+      "lat": 27.2211461,
+      "lon": 78.0191878,
+      "tags": {
+        "name": "Mata Mohini Dharamshala",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11697915752,
+      "lat": 27.1928871,
+      "lon": 77.9658132,
+      "tags": {
+        "name": "OYO Hotel Rj Palace",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11698469559,
+      "lat": 27.1951799,
+      "lon": 77.9642045,
+      "tags": {
+        "name": "Shivam inn",
+        "tourism": "motel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11880630725,
+      "lat": 27.158385,
+      "lon": 78.0344094,
+      "tags": {
+        "name": "Hotel Dasaprakash",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11880658242,
+      "lat": 27.1584991,
+      "lon": 78.0344114,
+      "tags": {
+        "name": "Hotel Jyoti Continental",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11921799669,
+      "lat": 27.1626216,
+      "lon": 78.0358315,
+      "tags": {
+        "name:en": "Ganga Ratan",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12307916701,
+      "lat": 27.166785,
+      "lon": 78.0509565,
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:postcode": "282001",
+        "addr:street": "Amar Lok Colony",
+        "name": "The Coral Court Homestay",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12308206502,
+      "lat": 27.163753,
+      "lon": 78.0539794,
+      "tags": {
+        "addr:postcode": "282001",
+        "name": "G Vibes Guest House",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12346180748,
+      "lat": 27.1563143,
+      "lon": 78.0596665,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Courtyard by Marriott Agra",
+        "stars": "5",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12346180749,
+      "lat": 27.1565768,
+      "lon": 78.0609077,
+      "tags": {
+        "addr:city": "Agra",
+        "addr:country": "IN",
+        "addr:housename": "Parsvanath Prerna Appartments",
+        "addr:housenumber": "A10",
+        "addr:postcode": "282001",
+        "addr:suburb": "Taj Nagri",
+        "beds": "4",
+        "guest_house": "bed_and_breakfast",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "mobile": "+91 99 5895 0636",
+        "name": "soul'Stay",
+        "operator": "Ankit Bansal, Lahar Agarwal",
+        "payment:cash": "yes",
+        "rooms": "4",
+        "smoking": "outside",
+        "tourism": "guest_house",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12348693401,
+      "lat": 27.16732,
+      "lon": 78.0397505,
+      "tags": {
+        "name": "Jahangir Lodge",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12348960009,
+      "lat": 27.1688592,
+      "lon": 78.0432307,
+      "tags": {
+        "name": "Taj City Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12389440101,
+      "lat": 27.1642562,
+      "lon": 78.0543686,
+      "tags": {
+        "name": "The Taj Vista",
+        "phone": "+91 99971 13228",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 274266253,
+      "nodes": [
+        2790273855,
+        2790273858,
+        2790273860,
+        2790273862,
+        2790273865,
+        2790273867,
+        2790273855
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Taj Hotel & Convention Center",
+        "tourism": "hotel",
+        "website": "https://www.radissonblu.com/hotel-agra"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303202681,
+      "nodes": [
+        3075425924,
+        3075425925,
+        3075425926,
+        3075425927,
+        3075425928,
+        3075425924
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "D.E.I boys hostel 1992",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 346249182,
+      "nodes": [
+        3528079655,
+        3528079653,
+        3528079654,
+        9920458001,
+        3528079657,
+        3528079656,
+        3528079658,
+        3528079659,
+        3528079660,
+        3528079661,
+        3528079655
+      ],
+      "tags": {
+        "name": "Jaypee Palace Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 346810595,
+      "nodes": [
+        3532956429,
+        3532956434,
+        3532956438,
+        3532956437,
+        3532956439,
+        3532956440,
+        3532956441,
+        3532956446,
+        3532956448,
+        3532956451,
+        3532956449,
+        3532956450,
+        3532956447,
+        3532956452,
+        3532956445,
+        3532956444,
+        3532956442,
+        3532956443,
+        3532956436,
+        3532956435,
+        3532956433,
+        3532956432,
+        3532956431,
+        3532956427,
+        3532956419,
+        3532956421,
+        3532956420,
+        3532956423,
+        3532956425,
+        3532956430,
+        3532956429
+      ],
+      "tags": {
+        "landuse": "commercial",
+        "name": "ITC Mughal",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579168390,
+      "nodes": [
+        5430935921,
+        5547378580,
+        5547378578,
+        5547378575,
+        5547378576,
+        5547378583,
+        5430935921
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Sleep inn",
+        "source": "DigitalGlobe-Standard",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579168395,
+      "nodes": [
+        3755318259,
+        5547378587,
+        5547378589,
+        5547378586,
+        3755318259
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Hotel Mansingh Palace",
+        "source": "DigitalGlobe-Standard",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579191943,
+      "nodes": [
+        5547512632,
+        5547512628,
+        5547512635,
+        5547512636,
+        5547512631,
+        5547512638,
+        5547512632
+      ],
+      "tags": {
+        "name": "Hotel Lake View",
+        "source": "DigitalGlobe-Standard, GPS",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 668632398,
+      "nodes": [
+        6261475534,
+        6261475535,
+        6261475536,
+        6261475537,
+        6261475534
+      ],
+      "tags": {
+        "addr:city": "Agra",
+        "addr:postcode": "282001",
+        "addr:street": "Fatehabad Road",
+        "brand": "Ramada",
+        "building": "yes",
+        "name": "Ramada Plaza",
+        "phone": "+91 56271 23500",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1111778540,
+      "nodes": [
+        10171439559,
+        10171439560,
+        10171439561,
+        10171439562,
+        10171439559
+      ],
+      "tags": {
+        "addr:city": "Agra",
+        "addr:postcode": "282001",
+        "building": "yes",
+        "email": "booking@thehosteller.com",
+        "internet_access": "wlan",
+        "name": "Hosteller",
+        "operator": "The Hosteller",
+        "tourism": "hostel",
+        "website": "https://www.thehosteller.com/hostels/the-hosteller-agra"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1257875515,
+      "nodes": [
+        11694338222,
+        11694338223,
+        11694338224,
+        11694338225,
+        11694338226,
+        11694338222
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "New Youth Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1258174128,
+      "nodes": [
+        11696959012,
+        11696959013,
+        11696959014,
+        11696959015,
+        11696959016,
+        11696959017,
+        11696959012
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Yatri Sadan",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3160491,
+      "members": [
+        {
+          "type": "way",
+          "ref": 179849257,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 234852545,
+          "role": "inner"
+        }
+      ],
+      "tags": {
+        "name": "Trident",
+        "tourism": "hotel",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17010058,
+      "members": [
+        {
+          "type": "way",
+          "ref": 1238634767,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 312538023,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "addr:city": "Agra",
+        "addr:street": "Fatehabad Road",
+        "building": "yes",
+        "contact:website": "https://www.seleqtionshotels.com/en-in/taj-view-agra/",
+        "internet_access": "wlan",
+        "name": "TajView",
+        "operator": "IHCL",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "source": "bing",
+        "stars": "5",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "tourism": "hotel",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5547512628,
+      "lat": 27.1150673,
+      "lon": 77.6580084
+    },
+    {
+      "type": "node",
+      "id": 5547512631,
+      "lat": 27.1146184,
+      "lon": 77.6575525
+    },
+    {
+      "type": "node",
+      "id": 5547512632,
+      "lat": 27.1152272,
+      "lon": 77.6575256
+    },
+    {
+      "type": "node",
+      "id": 5547512635,
+      "lat": 27.1146972,
+      "lon": 77.6578341
+    },
+    {
+      "type": "node",
+      "id": 5547512636,
+      "lat": 27.1147569,
+      "lon": 77.6576329
+    },
+    {
+      "type": "node",
+      "id": 5547512638,
+      "lat": 27.1147378,
+      "lon": 77.6572279
+    },
+    {
+      "type": "node",
+      "id": 11696959012,
+      "lat": 27.2197703,
+      "lon": 78.012133
+    },
+    {
+      "type": "node",
+      "id": 11696959013,
+      "lat": 27.2196502,
+      "lon": 78.0131687
+    },
+    {
+      "type": "node",
+      "id": 11696959014,
+      "lat": 27.2188059,
+      "lon": 78.0130786
+    },
+    {
+      "type": "node",
+      "id": 11696959015,
+      "lat": 27.218856,
+      "lon": 78.0128647
+    },
+    {
+      "type": "node",
+      "id": 11696959016,
+      "lat": 27.2189861,
+      "lon": 78.0128535
+    },
+    {
+      "type": "node",
+      "id": 11696959017,
+      "lat": 27.2191129,
+      "lon": 78.0119867
+    },
+    {
+      "type": "node",
+      "id": 3184103585,
+      "lat": 27.1606288,
+      "lon": 78.0402589
+    },
+    {
+      "type": "node",
+      "id": 3184103625,
+      "lat": 27.1610353,
+      "lon": 78.0396659
+    },
+    {
+      "type": "node",
+      "id": 3184103637,
+      "lat": 27.1613061,
+      "lon": 78.0399004
+    },
+    {
+      "type": "node",
+      "id": 3755318259,
+      "lat": 27.1606663,
+      "lon": 78.0352836
+    },
+    {
+      "type": "node",
+      "id": 5430935921,
+      "lat": 27.1605877,
+      "lon": 78.0350803
+    },
+    {
+      "type": "node",
+      "id": 5547378575,
+      "lat": 27.1607558,
+      "lon": 78.0350834
+    },
+    {
+      "type": "node",
+      "id": 5547378576,
+      "lat": 27.1606831,
+      "lon": 78.0348664
+    },
+    {
+      "type": "node",
+      "id": 5547378578,
+      "lat": 27.1606815,
+      "lon": 78.0351148
+    },
+    {
+      "type": "node",
+      "id": 5547378580,
+      "lat": 27.1606598,
+      "lon": 78.0350498
+    },
+    {
+      "type": "node",
+      "id": 5547378583,
+      "lat": 27.1605368,
+      "lon": 78.0349283
+    },
+    {
+      "type": "node",
+      "id": 5547378586,
+      "lat": 27.1606786,
+      "lon": 78.0354877
+    },
+    {
+      "type": "node",
+      "id": 5547378587,
+      "lat": 27.161279,
+      "lon": 78.0352369
+    },
+    {
+      "type": "node",
+      "id": 5547378589,
+      "lat": 27.1612913,
+      "lon": 78.035441
+    },
+    {
+      "type": "node",
+      "id": 11506204271,
+      "lat": 27.1611919,
+      "lon": 78.0400643
+    },
+    {
+      "type": "node",
+      "id": 11506204272,
+      "lat": 27.1610941,
+      "lon": 78.0402037
+    },
+    {
+      "type": "node",
+      "id": 11506204273,
+      "lat": 27.1612647,
+      "lon": 78.0401288
+    },
+    {
+      "type": "node",
+      "id": 11506204274,
+      "lat": 27.1611669,
+      "lon": 78.0402682
+    },
+    {
+      "type": "node",
+      "id": 3184103617,
+      "lat": 27.1608997,
+      "lon": 78.0404935
+    },
+    {
+      "type": "node",
+      "id": 3532956419,
+      "lat": 27.1590389,
+      "lon": 78.0447936
+    },
+    {
+      "type": "node",
+      "id": 3532956420,
+      "lat": 27.1590825,
+      "lon": 78.0455598
+    },
+    {
+      "type": "node",
+      "id": 3532956421,
+      "lat": 27.1590863,
+      "lon": 78.0449022
+    },
+    {
+      "type": "node",
+      "id": 3532956423,
+      "lat": 27.1592397,
+      "lon": 78.0455832
+    },
+    {
+      "type": "node",
+      "id": 3532956425,
+      "lat": 27.1592681,
+      "lon": 78.0459131
+    },
+    {
+      "type": "node",
+      "id": 3532956427,
+      "lat": 27.1602474,
+      "lon": 78.0427222
+    },
+    {
+      "type": "node",
+      "id": 3532956429,
+      "lat": 27.1603883,
+      "lon": 78.0455298
+    },
+    {
+      "type": "node",
+      "id": 3532956430,
+      "lat": 27.160391,
+      "lon": 78.0459322
+    },
+    {
+      "type": "node",
+      "id": 3532956431,
+      "lat": 27.1604924,
+      "lon": 78.0427493
+    },
+    {
+      "type": "node",
+      "id": 3532956432,
+      "lat": 27.1605299,
+      "lon": 78.0426515
+    },
+    {
+      "type": "node",
+      "id": 3532956433,
+      "lat": 27.1608806,
+      "lon": 78.042663
+    },
+    {
+      "type": "node",
+      "id": 1902796461,
+      "lat": 27.15957,
+      "lon": 78.0593927
+    },
+    {
+      "type": "node",
+      "id": 1902796463,
+      "lat": 27.1589386,
+      "lon": 78.0594837
+    },
+    {
+      "type": "node",
+      "id": 2429757895,
+      "lat": 27.15913,
+      "lon": 78.0596548
+    },
+    {
+      "type": "node",
+      "id": 2429757896,
+      "lat": 27.159165,
+      "lon": 78.0599192
+    },
+    {
+      "type": "node",
+      "id": 2429757898,
+      "lat": 27.1592096,
+      "lon": 78.0599118
+    },
+    {
+      "type": "node",
+      "id": 2429757906,
+      "lat": 27.1595011,
+      "lon": 78.0595929
+    },
+    {
+      "type": "node",
+      "id": 2429757907,
+      "lat": 27.1595788,
+      "lon": 78.0594699
+    },
+    {
+      "type": "node",
+      "id": 2429757909,
+      "lat": 27.1596511,
+      "lon": 78.0594595
+    },
+    {
+      "type": "node",
+      "id": 1902796462,
+      "lat": 27.1597569,
+      "lon": 78.0603864
+    },
+    {
+      "type": "node",
+      "id": 1902796465,
+      "lat": 27.1589964,
+      "lon": 78.0599906
+    },
+    {
+      "type": "node",
+      "id": 1902796467,
+      "lat": 27.1590524,
+      "lon": 78.060481
+    },
+    {
+      "type": "node",
+      "id": 1902796468,
+      "lat": 27.1590028,
+      "lon": 78.0600463
+    },
+    {
+      "type": "node",
+      "id": 2429757901,
+      "lat": 27.1592551,
+      "lon": 78.0602568
+    },
+    {
+      "type": "node",
+      "id": 2429757908,
+      "lat": 27.1595816,
+      "lon": 78.0602023
+    },
+    {
+      "type": "node",
+      "id": 3184103439,
+      "lat": 27.1594086,
+      "lon": 78.0604332
+    },
+    {
+      "type": "node",
+      "id": 3184103443,
+      "lat": 27.1594498,
+      "lon": 78.0604283
+    },
+    {
+      "type": "node",
+      "id": 3532956434,
+      "lat": 27.1615737,
+      "lon": 78.0456149
+    },
+    {
+      "type": "node",
+      "id": 3532956435,
+      "lat": 27.1617403,
+      "lon": 78.0426886
+    },
+    {
+      "type": "node",
+      "id": 3532956436,
+      "lat": 27.1617498,
+      "lon": 78.0431376
+    },
+    {
+      "type": "node",
+      "id": 3532956437,
+      "lat": 27.1618994,
+      "lon": 78.0459831
+    },
+    {
+      "type": "node",
+      "id": 3532956438,
+      "lat": 27.1619562,
+      "lon": 78.0457468
+    },
+    {
+      "type": "node",
+      "id": 3532956439,
+      "lat": 27.1620698,
+      "lon": 78.046015
+    },
+    {
+      "type": "node",
+      "id": 3532956440,
+      "lat": 27.1621872,
+      "lon": 78.0456404
+    },
+    {
+      "type": "node",
+      "id": 3532956441,
+      "lat": 27.1622402,
+      "lon": 78.0449615
+    },
+    {
+      "type": "node",
+      "id": 3532956442,
+      "lat": 27.1622497,
+      "lon": 78.0436505
+    },
+    {
+      "type": "node",
+      "id": 3532956443,
+      "lat": 27.1622686,
+      "lon": 78.0431036
+    },
+    {
+      "type": "node",
+      "id": 3532956444,
+      "lat": 27.1625034,
+      "lon": 78.0436824
+    },
+    {
+      "type": "node",
+      "id": 3532956445,
+      "lat": 27.1625072,
+      "lon": 78.0436122
+    },
+    {
+      "type": "node",
+      "id": 3532956446,
+      "lat": 27.1625072,
+      "lon": 78.0450488
+    },
+    {
+      "type": "node",
+      "id": 3532956447,
+      "lat": 27.162564,
+      "lon": 78.0443869
+    },
+    {
+      "type": "node",
+      "id": 3532956448,
+      "lat": 27.1626322,
+      "lon": 78.0449849
+    },
+    {
+      "type": "node",
+      "id": 3532956449,
+      "lat": 27.1626568,
+      "lon": 78.0446593
+    },
+    {
+      "type": "node",
+      "id": 3532956450,
+      "lat": 27.1627041,
+      "lon": 78.0444358
+    },
+    {
+      "type": "node",
+      "id": 3532956451,
+      "lat": 27.1627231,
+      "lon": 78.0446934
+    },
+    {
+      "type": "node",
+      "id": 3532956452,
+      "lat": 27.1627363,
+      "lon": 78.0436697
+    },
+    {
+      "type": "node",
+      "id": 10171439559,
+      "lat": 27.167108,
+      "lon": 78.0507248
+    },
+    {
+      "type": "node",
+      "id": 10171439560,
+      "lat": 27.1671066,
+      "lon": 78.0508307
+    },
+    {
+      "type": "node",
+      "id": 10171439561,
+      "lat": 27.1669258,
+      "lon": 78.0508276
+    },
+    {
+      "type": "node",
+      "id": 10171439562,
+      "lat": 27.1669273,
+      "lon": 78.0507217
+    },
+    {
+      "type": "node",
+      "id": 2790273855,
+      "lat": 27.162351,
+      "lon": 78.0561274
+    },
+    {
+      "type": "node",
+      "id": 2790273858,
+      "lat": 27.1624666,
+      "lon": 78.0558063
+    },
+    {
+      "type": "node",
+      "id": 2790273860,
+      "lat": 27.1633027,
+      "lon": 78.0561868
+    },
+    {
+      "type": "node",
+      "id": 2790273862,
+      "lat": 27.1630202,
+      "lon": 78.056971
+    },
+    {
+      "type": "node",
+      "id": 2790273865,
+      "lat": 27.162639,
+      "lon": 78.0567975
+    },
+    {
+      "type": "node",
+      "id": 2790273867,
+      "lat": 27.1628058,
+      "lon": 78.0563344
+    },
+    {
+      "type": "node",
+      "id": 6261475534,
+      "lat": 27.1383261,
+      "lon": 78.0923035
+    },
+    {
+      "type": "node",
+      "id": 6261475535,
+      "lat": 27.1386399,
+      "lon": 78.0926623
+    },
+    {
+      "type": "node",
+      "id": 6261475536,
+      "lat": 27.1382672,
+      "lon": 78.093074
+    },
+    {
+      "type": "node",
+      "id": 6261475537,
+      "lat": 27.1379534,
+      "lon": 78.0927152
+    },
+    {
+      "type": "node",
+      "id": 3528079653,
+      "lat": 27.1519181,
+      "lon": 78.0711058
+    },
+    {
+      "type": "node",
+      "id": 3528079654,
+      "lat": 27.1537915,
+      "lon": 78.0688925
+    },
+    {
+      "type": "node",
+      "id": 3528079655,
+      "lat": 27.1541104,
+      "lon": 78.0733434
+    },
+    {
+      "type": "node",
+      "id": 3528079656,
+      "lat": 27.1552685,
+      "lon": 78.0704863
+    },
+    {
+      "type": "node",
+      "id": 3528079657,
+      "lat": 27.1553273,
+      "lon": 78.0703262
+    },
+    {
+      "type": "node",
+      "id": 3528079658,
+      "lat": 27.1553768,
+      "lon": 78.0706429
+    },
+    {
+      "type": "node",
+      "id": 3528079659,
+      "lat": 27.1557298,
+      "lon": 78.0709631
+    },
+    {
+      "type": "node",
+      "id": 3528079660,
+      "lat": 27.1558537,
+      "lon": 78.0710675
+    },
+    {
+      "type": "node",
+      "id": 3528079661,
+      "lat": 27.1558599,
+      "lon": 78.0711719
+    },
+    {
+      "type": "node",
+      "id": 9920458001,
+      "lat": 27.1550155,
+      "lon": 78.0700351
+    },
+    {
+      "type": "node",
+      "id": 11694338222,
+      "lat": 27.2258739,
+      "lon": 78.0153626
+    },
+    {
+      "type": "node",
+      "id": 11694338223,
+      "lat": 27.2251857,
+      "lon": 78.0151728
+    },
+    {
+      "type": "node",
+      "id": 11694338224,
+      "lat": 27.2248719,
+      "lon": 78.0165101
+    },
+    {
+      "type": "node",
+      "id": 11694338225,
+      "lat": 27.225721,
+      "lon": 78.0166732
+    },
+    {
+      "type": "node",
+      "id": 11694338226,
+      "lat": 27.2259583,
+      "lon": 78.0153715
+    },
+    {
+      "type": "node",
+      "id": 3075425924,
+      "lat": 27.23298,
+      "lon": 78.0174927
+    },
+    {
+      "type": "node",
+      "id": 3075425925,
+      "lat": 27.2326056,
+      "lon": 78.0174712
+    },
+    {
+      "type": "node",
+      "id": 3075425926,
+      "lat": 27.2325078,
+      "lon": 78.0181847
+    },
+    {
+      "type": "node",
+      "id": 3075425927,
+      "lat": 27.2332066,
+      "lon": 78.0182437
+    },
+    {
+      "type": "node",
+      "id": 3075425928,
+      "lat": 27.2332734,
+      "lon": 78.0176455
+    },
+    {
+      "type": "way",
+      "id": 312538023,
+      "nodes": [
+        3184103637,
+        11506204271,
+        11506204272,
+        3184103617,
+        3184103585,
+        3184103625,
+        3184103637
+      ]
+    },
+    {
+      "type": "way",
+      "id": 1238634767,
+      "nodes": [
+        11506204271,
+        11506204272,
+        11506204274,
+        11506204273,
+        11506204271
+      ]
+    },
+    {
+      "type": "way",
+      "id": 179849257,
+      "nodes": [
+        1902796461,
+        1902796463,
+        1902796465,
+        1902796468,
+        1902796467,
+        3184103439,
+        3184103443,
+        1902796462,
+        2429757909,
+        2429757907,
+        1902796461
+      ]
+    },
+    {
+      "type": "way",
+      "id": 234852545,
+      "nodes": [
+        2429757906,
+        2429757895,
+        2429757896,
+        2429757898,
+        2429757901,
+        2429757908,
+        2429757906
+      ]
+    }
+  ]
+}

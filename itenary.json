@@ -1,0 +1,119 @@
+{
+    "day1": [
+        {
+            "time": "10-11",
+            "description": "Arrive at **Jhalawar Railway Station** and check into your hotel.  Consider **Hotel Jag Mandir** or similar for a comfortable stay.",
+            "places": [
+                "Jhalawar Railway Station",
+                "Hotel Jag Mandir"
+            ],
+            "cuisines": []
+        },
+        {
+            "time": "11-1",
+            "description": "Freshen up and have a leisurely lunch. Try some authentic **Rajasthani Thali** at a local restaurant.",
+            "places": [],
+            "cuisines": [
+                "Rajasthani Thali"
+            ]
+        },
+        {
+            "time": "1-3",
+            "description": "Visit the majestic **Jhalawar Fort**, exploring its intricate architecture and historical significance.",
+            "places": [
+                "Jhalawar Fort"
+            ],
+            "cuisines": []
+        },
+        {
+            "time": "3-5",
+            "description": "Explore the serene **Garh Palace**, admiring its beautiful courtyards and stunning views.",
+            "places": [
+                "Garh Palace"
+            ],
+            "cuisines": []
+        },
+        {
+            "time": "5-7",
+            "description": "Enjoy a relaxing evening stroll through the local markets, perhaps picking up some souvenirs. Have dinner at **A local eatery** for a taste of authentic street food.",
+            "places": [
+                "A local eatery"
+            ],
+            "cuisines": []
+        }
+    ],
+    "day2": [
+        {
+            "time": "10-12",
+            "description": "Take a trip to the nearby **Shri. 1008. Gyaneshwarji Temple**, a significant religious site.",
+            "places": [
+                "Shri. 1008. Gyaneshwarji Temple"
+            ],
+            "cuisines": []
+        },
+        {
+            "time": "12-2",
+            "description": "Enjoy lunch at a restaurant near the temple serving **vegetarian Rajasthani cuisine**.",
+            "places": [],
+            "cuisines": [
+                "vegetarian Rajasthani cuisine"
+            ]
+        },
+        {
+            "time": "2-4",
+            "description": "Visit the **Government Museum**, showcasing the region's rich history and art.",
+            "places": [
+                "Government Museum"
+            ],
+            "cuisines": []
+        },
+        {
+            "time": "4-6",
+            "description": "Relax by the **Chandrabhaga River** or enjoy a refreshing tea at a local cafe.",
+            "places": [
+                "Chandrabhaga River"
+            ],
+            "cuisines": []
+        },
+        {
+            "time": "6-8",
+            "description": "Indulge in a delicious dinner featuring **Dal Baati Churma**, a Rajasthani specialty.",
+            "places": [],
+            "cuisines": [
+                "Dal Baati Churma"
+            ]
+        }
+    ],
+    "day3": [
+        {
+            "time": "10-1",
+            "description": "Visit the **Padampura Gardens**, offering a peaceful retreat amidst lush greenery.",
+            "places": [
+                "Padampura Gardens"
+            ],
+            "cuisines": []
+        },
+        {
+            "time": "1-2",
+            "description": "Have a quick lunch. Consider grabbing some street food like **Pyaaz Kachori**.",
+            "places": [],
+            "cuisines": [
+                "Pyaaz Kachori"
+            ]
+        },
+        {
+            "time": "2-4",
+            "description": "Depending on your interests, you could either explore more local markets for shopping or visit another temple/religious site if you haven't had your fill!",
+            "places": [],
+            "cuisines": []
+        },
+        {
+            "time": "4-6",
+            "description": "Depart from **Jhalawar Railway Station**.",
+            "places": [
+                "Jhalawar Railway Station"
+            ],
+            "cuisines": []
+        }
+    ]
+}
