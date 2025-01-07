@@ -10,81 +10,20 @@
             background-color: #f4f4f9;
             margin: 0;
             padding: 0;
-            display: flex;
-            height: 100vh;
-            overflow: hidden; /* Prevent body from scrolling */
         }
 
-        .sidebar {
-            width: 30%;
-            max-width: 300px;
+        .container {
+            width: 50%;
+            margin: 50px auto;
             background-color: #fff;
-            box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
-            display: flex;
-            flex-direction: column;
             padding: 20px;
-            overflow-y: auto;
-            position: fixed; /* Fix sidebar on the left */
-            height: 100%; /* Full height of the screen */
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
 
-        .sidebar h2 {
-            margin-bottom: 20px;
-            color: #007bff;
-        }
-
-        .chat-container {
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            height: 100%;
-            margin-left: 30%; /* Offset chat container to the right of the sidebar */
-            overflow-y: auto; /* Allow scrolling in the chat container */
-        }
-
-        .chat-header {
-            background-color: #007bff;
-            color: white;
-            padding: 15px 20px;
+        h1 {
             text-align: center;
-            font-size: 18px;
-            font-weight: bold;
-        }
-
-        .chat-messages {
-            flex: 1;
-            padding: 20px;
-            overflow-y: auto;
-            background-color: #f4f4f9;
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
-
-        .message {
-            display: flex;
-            flex-direction: column;
-            gap: 5px;
-        }
-
-        .user-message {
-            align-self: flex-end;
-            background-color: #007bff;
-            color: white;
-            padding: 10px 15px;
-            border-radius: 15px 15px 0 15px;
-            max-width: 70%;
-            word-wrap: break-word;
-        }
-
-        .bot-message {
-            align-self: flex-start;
-            background-color: #e9f5ff;
             color: #333;
-            padding: 10px 15px;
-            border-radius: 15px 15px 15px 0;
-            max-width: 70%;
-            word-wrap: break-word;
         }
 
         form {
@@ -102,7 +41,6 @@
             font-size: 14px;
             border-radius: 4px;
             border: 1px solid #ddd;
-            width: 100%;
         }
 
         button {
@@ -148,11 +86,12 @@
             margin-top: 10px;
             border-radius: 4px;
         }
+
     </style>
 </head>
 <body>
-    <div class="sidebar">
-        <h2>Generate Itinerary</h2>
+    <div class="container">
+        <h1>Generate Your Itinerary</h1>
         <form method="POST">
             <label for="query">Enter your query:</label>
             <input type="text" id="query" name="query" required placeholder="e.g., Give me an itinerary for 2 days in Mumbai">
@@ -179,6 +118,13 @@
             <button type="submit">Generate Itinerary</button>
         </form>
 
+        {% if answer %}
+        <div class="result">
+            <h2>Your Itinerary</h2>
+            <pre>{{ answer }}</pre>
+        </div>
+        {% endif %}
+
         {% if details %}
         <div class="closest-destination">
             <h2>Destination Details</h2>
@@ -192,31 +138,9 @@
                 <li><strong>Annual Climate:</strong> {{ closest_details.annual_climate }}</li>
             </ul>
             {% endfor %}
+         
         </div>
         {% endif %}
-    </div>
-
-    <div class="chat-container">
-        <div class="chat-header">Itinerary Generator</div>
-
-        <div class="chat-messages">
-            <!-- Loop through chat history -->
-            {% if chat_history %}
-                {% for message in chat_history %}
-                    {% if loop.index is odd %}
-                        <!-- User message -->
-                        <div class="message">
-                            <div class="user-message">{{ message }}</div>
-                        </div>
-                    {% else %}
-                        <!-- Bot message -->
-                        <div class="message">
-                            <div class="bot-message"><strong>Bot:</strong><pre>{{ message }}</pre></div>
-                        </div>
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
-        </div>
     </div>
 </body>
 </html>
