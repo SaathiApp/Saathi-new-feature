@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Continue Chat</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4">Continue Chat</h1>
+
+        <div class="chat-box border rounded p-3 mb-4" style="height: 400px; overflow-y: auto; background-color: #f8f9fa;">
+            {% for message in chat_history %}
+                <div class="mb-2">
+                    {% if loop.index0 % 2 == 0 %}
+                        <div class="text-start"><strong>User:</strong> {{ message }}</div>
+                    {% else %}
+                        <div class="text-end"><strong>Model:</strong> {{ message }}</div>
+                    {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+
+        <form method="POST" action="/continue_chat/{{ chat_id }}">
+
+            <div class="mb-3">
+                <label for="user_message" class="form-label">Your Message</label>
+                <textarea class="form-control" id="user_message" name="user_message" rows="3" required></textarea>
+            </div>
+            <div class="d-flex justify-content-between">
+                <a href="/history" class="btn btn-secondary">Back to History</a>
+                <button type="submit" class="btn btn-primary">Send</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
